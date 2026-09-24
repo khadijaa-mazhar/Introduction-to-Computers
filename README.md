@@ -27,7 +27,7 @@ A computer generally performs four basic functions:
 | Smartphone | A handheld computer that combines computing, communication, and internet capabilities. |
 | Embedded Computer | A computer built into another device to perform a specific function. |
 
-#**History of Computers**
+# **History of Computers**
 The history of computers began with simple calculating devices and gradually developed into the powerful digital computers we use today.
 
 ***Early Calculating Devices***
@@ -58,3 +58,7 @@ The following tools and technologies were used to create and manage this project
 Git:Used for version control and tracking changes in the project.
 GitHub:	Used to host the repository and manage branches and Pull Requests.
 Markdown:	Used to format the README file with headings, tables, lists, links, and other elements.
+
+**student information**
+name: **khadija**
+roll no: **26k-3128**
