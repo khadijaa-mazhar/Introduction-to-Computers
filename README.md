@@ -59,7 +59,7 @@ Git:Used for version control and tracking changes in the project.
 GitHub:	Used to host the repository and manage branches and Pull Requests.
 Markdown:	Used to format the README file with headings, tables, lists, links, and other elements.
 
-**student information**
+# **student information**
 
 name: **khadija**
 
